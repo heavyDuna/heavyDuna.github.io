@@ -1,0 +1,25 @@
+li{
+  list-style-type:none;
+  padding: 20px;
+  text-align: center;
+  color:#001D30;
+  font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+}
+
+ul{
+  display:inline-block;
+  border:1px solid #EBEAEA;
+  margin:15px;
+  padding-left: 0px;  
+}
+
+h2{
+  color: #CA1F6B;
+  margin-left:280px;
+  margin-top: 70px;
+}
+
+.pepe{
+ color:white;
+background-color:  #001D30;
+}
