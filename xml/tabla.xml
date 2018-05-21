@@ -44,4 +44,11 @@
     <horas>10</horas>
     <material>incluido</material>
   </curso>
+  <curso>
+    <nombre>Bodyboard</nombre>
+      <precio>120</precio>
+    <dias>5</dias>
+    <horas>10</horas>
+    <material>incluido</material>
+  </curso>
 </cursos>
